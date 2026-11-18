@@ -1,4 +1,4 @@
-## 🖐️ hi there!
+## 🖐️ hey!
 
 i'm a product designer with 5+ years in B2B SaaS and fintech, a huge fan of health tech. here, i prototype accessibility and AI-driven input, built in code.
 
